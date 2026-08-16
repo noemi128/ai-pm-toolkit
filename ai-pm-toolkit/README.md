@@ -14,7 +14,7 @@ A skill is **not code**. It's a structured Markdown file (`SKILL.md`) that teach
 
 If you can write a good process document for a new team member, you can write a skill. That's the entire barrier to entry.
 
-> 📖 I wrote about how I built my first skill without writing a single line of code: *[link to Medium article]*
+> 📖 I wrote about how I built my first skill without writing a single line of code: *(https://medium.com/@noemi.muniz.gutierrez/i-built-my-own-ai-interview-prep-agent-without-writing-a-single-line-of-code-d69c93684200)*
 
 ---
 
